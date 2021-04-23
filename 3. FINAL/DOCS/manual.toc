@@ -1,0 +1,70 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Requerimientos funcionales}{4}%
+\contentsline {section}{\numberline {2}Estructura de ficheros}{5}%
+\contentsline {subsection}{\numberline {2.1}Estructura}{5}%
+\contentsline {subsection}{\numberline {2.2}Descripción de ficheros}{5}%
+\contentsline {section}{\numberline {3}Interacción usuario-aplicación}{7}%
+\contentsline {subsection}{\numberline {3.1}Función de ayuda}{7}%
+\contentsline {subsection}{\numberline {3.2}Consideraciones importantes en el uso}{9}%
+\contentsline {subsubsection}{\numberline {3.2.1}Unicidad de elemento y acción}{9}%
+\contentsline {subsubsection}{\numberline {3.2.2}Opciones por default}{9}%
+\contentsline {subsubsection}{\numberline {3.2.3}Diferencia entre cámaras}{9}%
+\contentsline {section}{\numberline {4}Estructuras de objetos}{10}%
+\contentsline {subsection}{\numberline {4.1}Estructuras básicas}{10}%
+\contentsline {subsection}{\numberline {4.2}Estructuras complementarias}{11}%
+\contentsline {section}{\numberline {5}Transformaciones geométricas}{12}%
+\contentsline {subsection}{\numberline {5.1}Matriz de representación del objeto}{12}%
+\contentsline {subsection}{\numberline {5.2}Constantes y valores}{13}%
+\contentsline {subsection}{\numberline {5.3}Sistema de referencia}{13}%
+\contentsline {subsection}{\numberline {5.4}Tipo de transformación}{14}%
+\contentsline {subsection}{\numberline {5.5}Tipo de objeto}{14}%
+\contentsline {subsection}{\numberline {5.6}Funciones de transformación}{14}%
+\contentsline {subsubsection}{\numberline {5.6.1}Funciones de rotación local}{14}%
+\contentsline {subsubsection}{\numberline {5.6.2}Funciones de escalado local}{15}%
+\contentsline {subsubsection}{\numberline {5.6.3}Funciones de traslación local}{15}%
+\contentsline {subsubsection}{\numberline {5.6.4}Funciones de rotación global}{16}%
+\contentsline {subsubsection}{\numberline {5.6.5}Funciones de traslación global}{16}%
+\contentsline {subsubsection}{\numberline {5.6.6}Funciones de escalado global}{17}%
+\contentsline {section}{\numberline {6}Cámaras}{18}%
+\contentsline {subsection}{\numberline {6.1}Introducción}{18}%
+\contentsline {subsection}{\numberline {6.2}Tipos de cámara}{18}%
+\contentsline {subsection}{\numberline {6.3}Inicialización de Cámara}{18}%
+\contentsline {subsection}{\numberline {6.4}Rotación de Cámara}{19}%
+\contentsline {subsubsection}{\numberline {6.4.1}Decide el movimiento según la tecla}{19}%
+\contentsline {subsubsection}{\numberline {6.4.2}Rotación de Cámara en Modo Vuelo}{20}%
+\contentsline {subsubsection}{\numberline {6.4.3}Rotación de Cámara en Modo Análisis}{20}%
+\contentsline {subsection}{\numberline {6.5}Traslación de Cámara}{21}%
+\contentsline {subsubsection}{\numberline {6.5.1}Decide el movimiento según la tecla}{21}%
+\contentsline {subsubsection}{\numberline {6.5.2}Traslación de Cámara en Modo Vuelo}{21}%
+\contentsline {subsubsection}{\numberline {6.5.3}Traslación de Cámara en Modo Análisis}{22}%
+\contentsline {subsection}{\numberline {6.6}Funciones de Proyección}{22}%
+\contentsline {subsection}{\numberline {6.7}Funciones auxiliares}{23}%
+\contentsline {subsubsection}{\numberline {6.7.1}Calcular matriz de cámara que mira directo al objeto}{23}%
+\contentsline {subsubsection}{\numberline {6.7.2}Calcular matriz correspondiente a una cámara}{23}%
+\contentsline {section}{\numberline {7}Luces}{24}%
+\contentsline {subsection}{\numberline {7.1}Introducción}{24}%
+\contentsline {subsection}{\numberline {7.2}Tipos de luces}{24}%
+\contentsline {subsection}{\numberline {7.3}Teclas para manejo de luces}{25}%
+\contentsline {subsection}{\numberline {7.4}Estructura del objeto luz}{25}%
+\contentsline {subsection}{\numberline {7.5}Función de cambio entre bombilla a foco}{26}%
+\contentsline {subsection}{\numberline {7.6}Traslación de luz}{26}%
+\contentsline {subsubsection}{\numberline {7.6.1}Decide hacia dónde mover la luz}{26}%
+\contentsline {subsubsection}{\numberline {7.6.2}Efectúa el movimiento}{26}%
+\contentsline {subsection}{\numberline {7.7}Rotación de luz}{27}%
+\contentsline {subsubsection}{\numberline {7.7.1}Decide hacia dónde rotar la luz}{27}%
+\contentsline {subsubsection}{\numberline {7.7.2}Efectúa el movimiento}{27}%
+\contentsline {section}{\numberline {8}Materiales}{28}%
+\contentsline {subsection}{\numberline {8.1}Estructura}{28}%
+\contentsline {subsection}{\numberline {8.2}Inicialización}{28}%
+\contentsline {section}{\numberline {9}Función de control de teclado}{29}%
+\contentsline {subsection}{\numberline {9.1}Manejo de opciones de teclado}{29}%
+\contentsline {subsection}{\numberline {9.2}Manejo de teclas Fn y flechas}{33}%
+\contentsline {section}{\numberline {10}Funciones auxiliares transversales}{36}%
+\contentsline {subsection}{\numberline {10.1}Calcular producto vectorial}{36}%
+\contentsline {subsection}{\numberline {10.2}Calcular matriz inversa}{36}%
+\contentsline {subsection}{\numberline {10.3}Multiplicar matriz (modifica el sistema de referencia local)}{36}%
+\contentsline {subsection}{\numberline {10.4}Multiplicar matriz (modifica el sistema de referencia global)}{37}%
+\contentsline {subsection}{\numberline {10.5}Multiplicar matriz por punto}{37}%
+\contentsline {subsection}{\numberline {10.6}Multiplicar matriz por vector}{37}%
+\contentsline {section}{\numberline {11}Conclusiones}{38}%
+\contentsline {section}{\numberline {12}Bibliografía}{39}%
